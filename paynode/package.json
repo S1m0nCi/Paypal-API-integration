@@ -1,0 +1,21 @@
+{
+  "name": "paynode",
+  "version": "1.0.0",
+  "description": "Integrating paypal with nodejs and expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "Paypal",
+    "Integration",
+    "nodeJS",
+    "express"
+  ],
+  "author": "Simon Ciavarro",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "paypal-rest-sdk": "^1.8.1"
+  }
+}
